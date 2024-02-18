@@ -1,0 +1,12 @@
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\bin\Debug\net6.0\SportApp.ViewModels.deps.json
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\bin\Debug\net6.0\SportApp.ViewModels.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\bin\Debug\net6.0\SportApp.ViewModels.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\SportApp.ViewModels.csproj.AssemblyReference.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\SportApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\SportApp.ViewModels.AssemblyInfoInputs.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\SportApp.ViewModels.AssemblyInfo.cs
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\SportApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\SportApp.ViewModels.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\refint\SportApp.ViewModels.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\SportApp.ViewModels.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.ViewModels\obj\Debug\net6.0\ref\SportApp.ViewModels.dll

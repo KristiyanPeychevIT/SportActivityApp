@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SportApp.ViewModels/1.0.0": {
+        "runtime": {
+          "SportApp.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SportApp.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

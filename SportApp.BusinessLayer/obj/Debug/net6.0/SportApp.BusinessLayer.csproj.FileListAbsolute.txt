@@ -1,0 +1,12 @@
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\bin\Debug\net6.0\SportApp.BusinessLayer.deps.json
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\bin\Debug\net6.0\SportApp.BusinessLayer.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\bin\Debug\net6.0\SportApp.BusinessLayer.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\SportApp.BusinessLayer.csproj.AssemblyReference.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\SportApp.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\SportApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\SportApp.BusinessLayer.AssemblyInfo.cs
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\SportApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\SportApp.BusinessLayer.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\refint\SportApp.BusinessLayer.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\SportApp.BusinessLayer.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.BusinessLayer\obj\Debug\net6.0\ref\SportApp.BusinessLayer.dll

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<UserAllViewModel>
+
+@{
+    ViewData["Title"] = "Users Board";
+}
+
+<h2 class="text-center">@ViewData["Title"]</h2>
+
+@if (!Model.Any())
+{
+    <h3 class="text-center">No users yet!</h3>
+}
+else
+{
+    <div class="container m-5 text-center">
+        <table class="table table-bordered">
+            <thead class="bg-secondary text-black">
+            <tr class="text-black">
+                <th scope="col">Id</th>
+                <th scope="col">UserName</th>
+                <th scope="col">Email</th>
+                <th scope="col">PhoneNumber</th>
+                <th scope="col">Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var user in Model)
+            {
+                <tr class="bg-light text-black">
+                    <td>@user.Id</td>
+                    <td>@user.UserName</td>
+                    <td>@user.Email</td>
+                    <td>@user.PhoneNumber</td>
+                    <td>
+                        <a asp-controller="User" asp-action="Update" asp-route-id="@user.Id" class="btn btn-primary mb-2">Update</a>
+                        <a asp-controller="User" asp-action="Delete" asp-route-id="@user.Id" class="btn btn-danger mb-2">Delete</a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+}

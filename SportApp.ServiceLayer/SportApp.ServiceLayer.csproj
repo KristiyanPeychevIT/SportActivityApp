@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SportApp.BusinessLayer\SportApp.BusinessLayer.csproj" />
+    <ProjectReference Include="..\SportApp.DataLayer\SportApp.DataLayer.csproj" />
+    <ProjectReference Include="..\SportApp.Infrastructure\SportApp.Infrastructure.csproj" />
+    <ProjectReference Include="..\SportApp.ViewModels\SportApp.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

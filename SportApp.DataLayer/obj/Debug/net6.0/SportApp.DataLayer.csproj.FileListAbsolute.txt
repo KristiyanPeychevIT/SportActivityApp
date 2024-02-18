@@ -1,0 +1,17 @@
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.csproj.AssemblyReference.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.AssemblyInfoInputs.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.AssemblyInfo.cs
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.csproj.CoreCompileInputs.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\bin\Debug\net6.0\SportApp.DataLayer.deps.json
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\bin\Debug\net6.0\SportApp.DataLayer.runtimeconfig.json
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\bin\Debug\net6.0\SportApp.DataLayer.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\bin\Debug\net6.0\SportApp.DataLayer.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\refint\SportApp.DataLayer.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.genruntimeconfig.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\ref\SportApp.DataLayer.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\bin\Debug\net6.0\SportApp.BusinessLayer.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\bin\Debug\net6.0\SportApp.BusinessLayer.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.DataLayer\obj\Debug\net6.0\SportApp.DataLayer.csproj.CopyComplete

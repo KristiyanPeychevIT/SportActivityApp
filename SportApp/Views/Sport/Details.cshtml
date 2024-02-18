@@ -1,0 +1,28 @@
+﻿@model SportAllViewModel 
+ 
+@{ 
+    ViewBag.Title = "View Sport Details"; 
+} 
+ 
+<h2 class="text-center">@ViewBag.Title</h2> 
+<hr /> 
+ 
+<div class="d-flex justify-content-center"> 
+    <div class="card " style="width: 50rem;"> 
+        <div class="card-body"> 
+            <h3 class="card-title text-center">@Model.Name</h3>             
+            <p class="card-text"><span class="fw-bold">Duration: </span>@Model.Duration</p> 
+            <p class="card-text"><span class="fw-bold">Times Per Week: </span>@Model.TimesPerWeek</p> 
+            <p class="card-text"><span class="fw-bold">Played By: </span>@Model.User</p> 
+            @if (Model.User == User.Identity?.Name) 
+            { 
+                <tr class="actions">                     
+                    <td> 
+                        <a asp-controller="Sport" asp-action="Edit" asp-routeid="@Model.Id" class="btn btn-primary">Edit</a> 
+                        <a asp-controller="Sport" asp-action="Delete" asp-routeid="@Model.Id" class="btn btn-danger">Delete</a> 
+                    </td> 
+                </tr> 
+            } 
+        </div> 
+    </div> 
+</div> 

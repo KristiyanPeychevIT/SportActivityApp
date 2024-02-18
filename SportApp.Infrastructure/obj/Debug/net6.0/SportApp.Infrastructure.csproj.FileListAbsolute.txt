@@ -1,0 +1,12 @@
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\bin\Debug\net6.0\SportApp.Infrastructure.deps.json
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\bin\Debug\net6.0\SportApp.Infrastructure.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\bin\Debug\net6.0\SportApp.Infrastructure.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\SportApp.Infrastructure.csproj.AssemblyReference.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\SportApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\SportApp.Infrastructure.AssemblyInfoInputs.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\SportApp.Infrastructure.AssemblyInfo.cs
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\SportApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\SportApp.Infrastructure.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\refint\SportApp.Infrastructure.dll
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\SportApp.Infrastructure.pdb
+C:\KRIS\C#\ASP.NET\MG\SportApp\SportApp.Infrastructure\obj\Debug\net6.0\ref\SportApp.Infrastructure.dll

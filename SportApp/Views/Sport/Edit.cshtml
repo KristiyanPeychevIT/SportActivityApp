@@ -1,0 +1,34 @@
+﻿@model SportFormModel
+
+@{
+    ViewBag.Title = "Edit Sport";
+}
+
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row">
+    <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        <form asp-action="Edit">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control" aria-required="true" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Duration" class="form-label">Duration</label>
+                <input asp-for="Duration" class="form-control" aria-required="true" />
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="TimesPerWeek" class="form-label">Times Per Week</label>
+                <input asp-for="TimesPerWeek" class="form-control" aria-required="true" />
+                <span asp-validation-for="TimesPerWeek" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <input class="btn btn-primary" type="submit" value="Edit" />
+            </div>
+        </form>
+    </div>
+</div>
